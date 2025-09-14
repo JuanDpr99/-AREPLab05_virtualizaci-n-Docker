@@ -1,0 +1,18 @@
+# Compilados
+*.class
+*.log
+
+# Salidas
+/target/
+/build/
+/out/
+
+# IDEs
+/.idea/
+/.vscode/
+/nbproject/private/
+/*.iml
+
+# SO
+.DS_Store
+Thumbs.db
